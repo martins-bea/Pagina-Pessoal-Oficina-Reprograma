@@ -6,4 +6,4 @@
 
 ##### ⚙️ Tecnologias utilizadas: HTML e CSS. 
 
-##### 👉  Confira em: <a href="https://beatriz-martins.netlify.app/" target="_blank">Beatriz Martins - Netlify</a>
+##### 👉  Confira em: <a href="https://beatriz-martins.netlify.app/" target="blank">Beatriz Martins - Netlify</a>
