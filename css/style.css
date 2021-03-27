@@ -1,0 +1,128 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  background: #e4c3ff;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 48px;
+  margin-bottom: 24px;
+}
+
+h3 {
+  margin-bottom: 16px;
+  font-size: 18px;
+  color: rgb(87, 85, 85);
+}
+
+.banner {
+  background: url(../img/banner-bg.png);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #e4c3ff;
+  text-align: center;
+}
+
+.subtitulo {
+  margin-bottom: 36px;
+}
+.gif{
+
+    margin-top: 40px;
+    height: auto;
+    width: 50%;
+}
+.botao {
+  background-color: #32dae7;
+  color: white;
+  padding: 15px;
+  border-radius: 30px;
+}
+.botao:hover {
+  background: #a16ee7;
+}
+
+.sobre {
+  margin: 24px;
+}
+.sobre-flex {
+  display: flex;
+  justify-content: center;
+  line-height: 1.5em;
+  margin-left: 100px;
+}
+
+.sobre-descricao {
+  width: 40%;
+  color: rgb(88, 85, 85);
+  text-align: justify;
+}
+
+.sobre-descricao p {
+  margin-bottom: 24px;
+}
+
+.sobre-habilidades {
+  width: 40%;
+  color: rgb(88, 85, 85);
+}
+
+.titulo-sobre {
+  margin-bottom: 24px;
+  text-align: center;
+  color: #7e459b;
+}
+
+.botao-sobre {
+  background-color: #32dae7;
+
+  color: white;
+  padding: 15px;
+  border-radius: 30px;
+}
+
+.botao-sobre:hover {
+  background: #a16ee7;
+}
+
+.redes {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.redes-links:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.redes-links {
+  color: #e4c3ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #7e459b;
+  width: 16%;
+  height: 180px;
+  margin: 16px;
+}
+
+.redes-links__img {
+  margin-bottom: 10px;
+}
+
+.redes-links__titulo {
+  margin-bottom: 16px;
+}
