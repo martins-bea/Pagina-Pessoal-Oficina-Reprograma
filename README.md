@@ -1,4 +1,4 @@
-<img src=https://i.imgur.com/0lBBgSZ.png; height=auto; width=70%; > 
+
 
 ### 💻 Página Pessoal - Oficina Reprograma
 
@@ -7,3 +7,4 @@
 ##### ⚙️ Tecnologias utilizadas: HTML e CSS. 
 
 ##### 👉  Confira em: <a href="https://beatriz-martins.netlify.app/" target="blank">Beatriz Martins - Netlify</a>
+<img src=https://i.imgur.com/0lBBgSZ.png; height=auto; width=70%; > 
